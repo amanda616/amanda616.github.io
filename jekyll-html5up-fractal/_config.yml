@@ -1,6 +1,6 @@
 # Site settings
-title: Jekyll fractal
-email: youremailaddress@gmail.com
+title: Integrity
+email: amandavasqeuz616@gmail.com
 description: Just a simple, single page responsive template brought to you by HTML5 UP.
 baseurl: "/fractal-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site e.g. http://yvesespinosa.com
@@ -8,14 +8,15 @@ download_button_url: ""
 
 # Social settings
 500px_url:
-facebook_url:
-github_url:
+facebook_url: https://www.facebook.com/profile.php?id=61579096572564
+github_url: 
 gitlab_url: 
 googleplus_url: 
 instagram_url:
-linkedin_url: 
+linkedin_url: www.linkedin.com/in/amanda-vasquez-66075a206
 pinterest_url:
 twitter_url:  
 
 # Build settings
 markdown: kramdown
+
