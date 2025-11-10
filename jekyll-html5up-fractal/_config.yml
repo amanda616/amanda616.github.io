@@ -12,13 +12,14 @@ facebook_url: https://www.facebook.com/profile.php?id=61579096572564
 github_url: 
 gitlab_url: 
 googleplus_url: 
-instagram_url:https://www.instagram.com/amanda4integrity/
+instagram_url: https://www.instagram.com/amanda4integrity/
 linkedin_url: www.linkedin.com/in/amanda-vasquez-66075a206
 pinterest_url:
 twitter_url:  
 
 # Build settings
 markdown: kramdown
+
 
 
 
